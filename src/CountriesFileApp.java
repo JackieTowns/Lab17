@@ -60,6 +60,7 @@ public class CountriesFileApp {
 			}
 
 		} while (!valid);
+
 			/*
 			 * System.out.print("Enter a  country name to add: "); String name =
 			 * scnr.nextLine(); System.out.print("Enter their population: "); int population
